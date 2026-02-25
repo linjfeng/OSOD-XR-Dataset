@@ -6,7 +6,7 @@ To evaluate prompt-conditioned robustness in realistic XR settings, we curated a
 
 ### 2. Evaluation Methods & Prompt Enchancement Strategies
 We established a comprehensive pipeline to measure prompt-conditioned robustness, the stability of Open-Set Object Detection (OSOD) models when the visual scene is fixed but the linguistic input varies. \
-Models Evaluated: We tested two state-of-the-art OSOD systems: GroundingDINO (GD) and YOLO-E. \
+Models Evaluated: We tested two state-of-the-art OSOD systems: GroundingDINO (GD) and YOLO-E. 
 Prompt Simulation: To mimic realistic user behavior at scale, we used a Vision-Language Model (VLM), specifically GPT-5, to generate four distinct types of prompts:
 * Underdetailed: Short or incomplete inputs
 * Standard: Well-formed, explicit descriptions
