@@ -30,7 +30,7 @@ Evaluation.dataset.coco/
     └── _annotations.coco.json
 ```
 ### 5. Dataset Download
-* The full OSOD-XR dataset can be downloaded here: [https://huggingface.co/datasets/Linjfeng/OSOD-XR-Dataset/tree/main](url)
+* The full OSOD-XR dataset can be downloaded here: https://huggingface.co/datasets/Linjfeng/OSOD-XR-Dataset/tree/main. 
 ### 6. Citation
 If you use the OSOD-XR dataset in an academic work, please cite: 
 ```text
